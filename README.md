@@ -8,3 +8,6 @@
 
 - I'm currently learning kind of reverse engineering and linux
 - I'm fluent in Java 😍, JavaScript, Python, C# and (C++)
+
+<br><br>
+**My favorite repositories are these pinned ones ⬇️**
