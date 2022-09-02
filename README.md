@@ -1,7 +1,10 @@
-<h1 align="center">Hi  👋, I'm  <a href="https://youtube.com/c/join1122" target="blank">joojn</a>
+## Hi👋, this is my `professional` github profile.
 
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&emsp;***About me***
 
-<p align="center">17 y/o  student from Czech Republic<p>
-`
+`I'm joojn, I'm 17 y/o  student from Czech Republic.`
+<br>
+<img src="https://media.giphy.com/media/xT77Y1T0zY1gR5qe5O/giphy.gif" width="30px" sty> &emsp;***Stuff***
+
 - I'm currently learning kind of reverse engineering and linux
 - I'm fluent in Java 😍, JavaScript, Python, C# and (C++)
