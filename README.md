@@ -1,4 +1,4 @@
-## Hi👋, this is my `professional` github profile.
+## Hi👋, this is my "professional" github profile.
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&emsp;***About me***
 
