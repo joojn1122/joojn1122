@@ -6,7 +6,7 @@
 <br><br>
 <img src="https://media.giphy.com/media/xT77Y1T0zY1gR5qe5O/giphy.gif" width="30px"> &emsp;***Stuff***
 
-- I'm fluent in Java 😘, JavaScript, Python, C# and (C++)
+- I'm fluent in Java, Type(Java)Script, Python, C# and (C++)
 
 <details>
   <summary><h4>Coding themes & extensions</h4></summary>
